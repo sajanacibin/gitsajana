@@ -14,7 +14,17 @@ public class testng1 {
 		System.out.println("hello1 sajana updated");
 	}
 	
+@Test
+
+public void demo1()
+
+{
 	
+	System.out.println("hello is updated by sajana in new branch");
+
+	System.out.println("hello1 sajana updated in new branch");
+}
+
 	
 	
 }
