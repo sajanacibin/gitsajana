@@ -10,6 +10,8 @@ public class testng1 {
 	{
 		
 		System.out.println("hello");
+
+		System.out.println("hello1 sajana updated");
 	}
 	
 	
